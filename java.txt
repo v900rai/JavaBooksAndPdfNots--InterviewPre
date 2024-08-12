@@ -1,0 +1,92 @@
+
+0:00 Brief overview of the lecture
+1:11 What is a programming language
+2:56 Working of a Java program
+6:14 JVM, JRE, and JDK
+10:07 Installation of IntelliJ for Java Programs
+13:03 Creating a Java Class
+15:05 Basic Java Program
+22:52 Java Keywords
+23:54 Java Variables
+33:18 Data types in Java
+45:40 Data types implicit Conversion
+53:00 Java Comments
+57:29 Binary number system overview 
+58:00 Convert Binary to decimal
+1:14:55 Binary Addition
+1:17:51 Binary Subtraction
+1:25:00 Two’s compliment 
+1:26:36 Types of Operators in Java
+1:27:10 Arithmetic Operators
+1:34:59 Assignment Operators
+1:37:34 Relational Operators
+1:43:21 Logical Operators
+1:50:10 Bitwise Operators
+1:50:59 Increment, Decrement & Ternary Operators
+1:54:35 Taking user input using Scanner in Java
+2:04:57 Java Conditional Statements 
+2:07:39 Java if - else Statements
+2:14:16 Java if - else if - else Statements
+2:18:22 Nested if - else Statements
+2:31:02 Java Ternary Operators
+2:38:21 Java Switch Statements
+2:58:00 Loops in Java overview
+2:58:52 Elements of Java Loops
+3:11:40 Java for loops
+3:26:11 Java while Loops
+3:36:24 Java do while Loops
+3:42:02 break Statements in Java
+3:49:14 continue Statements in Java
+3:54:36 Nested Loops and Patterns printing in Java
+4:07:56 Labeled break & continue Statements
+4:12:41 Arrays in Java
+4:14:04 How does the Array Work?
+4:18:10 Creating an Array in Java
+4:39:46 for - each Loop in Java
+4:55:03 Multidimensional Arrays in Java
+5:09:29 Methods in Java overview
+5:10:40 How do the Methods work?
+5:13:02 Components of Method
+5:23:50 Calling of a Method
+5:29:05 Methods Parameters
+5:50:00 Math Class Methods in Java
+6:05:34 Java String 
+6:10:10 How to create Java String
+6:18:28 Immutable String in Java
+6:25:45 Comparison of two Strings in Java
+6:44:17 Java String Methods
+7:08:10 Java OOPs Introduction
+7:10:03 Classes and Objects in Java
+7:32:53 Method Overloading
+7:41:45 Java Constructors
+7:58:11 The this Keyword
+8:08:30 Java Inheritance
+8:15:51 Method Overriding
+8:25:40 super Keyword in Java
+8:35:30 this vs. super Keyword
+8:41:43 final Keyword
+8:51:57 Java Encapsulation Overview
+8:53:38 Java Packages
+9:00:00 Importing a Package 
+9:07:30 Java Access Modifiers
+9:10:40 Types of Access Modifiers
+9:26:48 Java Encapsulation
+9:29:57 Data Hiding
+9:38:45 The static Keyword
+9:52:11 The static Methods
+10:04:27 Java Abstraction Overview
+10:05:23 Java Abstract Class
+10:18:42 Java Abstraction
+10:20:30 Java Interfaces
+10:28:58 Advantages of Java Interfaces
+10:34:15 Default functions in Interfaces
+10:37:11 Inner classes and Nested Static class in Java
+ 10:44:02 Anonymous Classes in Java
+10:51:47 Functional Interfaces
+11:00:34 Lambda Expression
+11:03:28 Java Memory Overview
+11:04:21 Java Heap and Stack Memory 
+11:18:38 Java Heap Memory 
+11:19:24 Java Stack Memory
+11:22:13 Java Object class
+11:47:06 Java Polymorphism
